@@ -119,7 +119,9 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codertinie&show_icons=true&locale=en" alt="codertinie" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codertinie&show_icons=true&locale=en" alt="codertinie" /></p> -->
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codertinie&theme=react&line_height=40&hide=css"/> </a>
 
 <!-- END -->
 
